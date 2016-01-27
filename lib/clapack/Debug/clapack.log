@@ -1,0 +1,521 @@
+﻿  xerbla.c
+e:\git\bundler_sfm\lib\clapack\src\xerbla.c(36): warning C4013: “printf”未定义；假设外部返回 int
+  lsamen.c
+e:\git\bundler_sfm\lib\clapack\src\lsamen.c(61): warning C4018: “<”: 有符号/无符号不匹配
+  izmax1.c
+  iparmq.c
+e:\git\bundler_sfm\lib\clapack\src\iparmq.c(193): warning C4244: “=”: 从“double”转换到“real”，可能丢失数据
+  ilaver.c
+  ilaenv.c
+  ieeeck.c
+  icmax1.c
+e:\git\bundler_sfm\lib\clapack\src\icmax1.c(82): warning C4244: “=”: 从“double”转换到“real”，可能丢失数据
+e:\git\bundler_sfm\lib\clapack\src\icmax1.c(90): warning C4244: “=”: 从“double”转换到“real”，可能丢失数据
+e:\git\bundler_sfm\lib\clapack\src\icmax1.c(100): warning C4244: “=”: 从“double”转换到“real”，可能丢失数据
+e:\git\bundler_sfm\lib\clapack\src\icmax1.c(107): warning C4244: “=”: 从“double”转换到“real”，可能丢失数据
+  dzsum1.c
+  dtzrzf.c
+  dtzrqf.c
+  dtrtrs.c
+  dtrtri.c
+  dtrti2.c
+  dtrsyl.c
+  dtrsna.c
+e:\git\bundler_sfm\lib\clapack\src\dtrsna.c(514): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  dtrsen.c
+  dtrrfs.c
+  dtrexc.c
+  dtrevc.c
+  正在生成代码...
+  正在编译...
+  dtrcon.c
+  dtptrs.c
+  dtptri.c
+  dtprfs.c
+  dtpcon.c
+  dtgsyl.c
+  dtgsy2.c
+  dtgsna.c
+  dtgsja.c
+  dtgsen.c
+  dtgexc.c
+  dtgex2.c
+e:\git\bundler_sfm\lib\clapack\src\dtgex2.c(396): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dtgex2.c(397): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dtgex2.c(398): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dtgex2.c(399): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dtgex2.c(400): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dtgex2.c(401): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dtgex2.c(607): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dtgex2.c(610): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dtgex2.c(611): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dtgex2.c(625): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dtgex2.c(630): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  dtgevc.c
+  dtbtrs.c
+  dtbrfs.c
+  dtbcon.c
+  dsytrs.c
+  dsytri.c
+  dsytrf.c
+  dsytrd.c
+  正在生成代码...
+  正在编译...
+  dsytf2.c
+  dsytd2.c
+  dsysvx.c
+  dsysv.c
+  dsyrfs.c
+  dsygvx.c
+  dsygvd.c
+  dsygv.c
+  dsygst.c
+  dsygs2.c
+  dsyevx.c
+  dsyevr.c
+  dsyevd.c
+  dsyev.c
+  dsycon.c
+  dstevx.c
+  dstevr.c
+  dstevd.c
+  dstev.c
+  dsterf.c
+  正在生成代码...
+  正在编译...
+  dsteqr.c
+  dstemr.c
+  dstein.c
+  dstegr.c
+  dstedc.c
+e:\git\bundler_sfm\lib\clapack\src\dstedc.c(236): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  dstebz.c
+  dsptrs.c
+e:\git\bundler_sfm\lib\clapack\src\dsptrs.c(365): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  dsptri.c
+  dsptrf.c
+  dsptrd.c
+  dspsvx.c
+  dspsv.c
+  dsprfs.c
+  dspgvx.c
+  dspgvd.c
+  dspgv.c
+  dspgst.c
+  dspevx.c
+  dspevd.c
+  dspev.c
+  正在生成代码...
+  正在编译...
+  dspcon.c
+  dsgesv.c
+  dsbtrd.c
+  dsbgvx.c
+  dsbgvd.c
+  dsbgv.c
+  dsbgst.c
+  dsbevx.c
+  dsbevd.c
+  dsbev.c
+  drscl.c
+  dptts2.c
+  dpttrs.c
+  dpttrf.c
+  dptsvx.c
+  dptsv.c
+  dptrfs.c
+  dpteqr.c
+  dptcon.c
+  dpptrs.c
+  正在生成代码...
+  正在编译...
+  dpptri.c
+  dpptrf.c
+  dppsvx.c
+  dppsv.c
+  dpprfs.c
+  dppequ.c
+  dppcon.c
+  dpotrs.c
+  dpotri.c
+  dpotrf.c
+  dpotf2.c
+  dposvx.c
+  dposv.c
+  dporfs.c
+  dpoequ.c
+  dpocon.c
+  dpbtrs.c
+  dpbtrf.c
+  dpbtf2.c
+  dpbsvx.c
+  正在生成代码...
+  正在编译...
+  dpbsv.c
+  dpbstf.c
+  dpbrfs.c
+  dpbequ.c
+  dpbcon.c
+  dormtr.c
+  dormrz.c
+  dormrq.c
+  dormr3.c
+  dormr2.c
+  dormqr.c
+  dormql.c
+  dormlq.c
+  dorml2.c
+  dormhr.c
+  dormbr.c
+  dorm2r.c
+  dorm2l.c
+  dorgtr.c
+  dorgrq.c
+  正在生成代码...
+  正在编译...
+  dorgr2.c
+  dorgqr.c
+  dorgql.c
+  dorglq.c
+  dorgl2.c
+  dorghr.c
+  dorgbr.c
+  dorg2r.c
+  dorg2l.c
+  dopmtr.c
+  dopgtr.c
+  dlazq4.c
+  dlazq3.c
+e:\git\bundler_sfm\lib\clapack\src\dlazq3.c(202): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlazq3.c(203): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlazq3.c(270): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlazq3.c(275): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  dlauum.c
+  dlauu2.c
+  dlatzm.c
+  dlatrz.c
+  dlatrs.c
+  dlatrd.c
+  dlatps.c
+  正在生成代码...
+  正在编译...
+  dlatdf.c
+  dlatbs.c
+  dlasyf.c
+  dlasy2.c
+  dlaswp.c
+  dlasv2.c
+  dlassq.c
+  dlasrt.c
+  dlasr.c
+  dlasq6.c
+e:\git\bundler_sfm\lib\clapack\src\dlasq6.c(96): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq6.c(120): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq6.c(149): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  dlasq5.c
+e:\git\bundler_sfm\lib\clapack\src\dlasq5.c(103): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq5.c(116): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq5.c(134): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq5.c(154): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq5.c(170): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq5.c(191): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  dlasq4.c
+  dlasq3.c
+e:\git\bundler_sfm\lib\clapack\src\dlasq3.c(200): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq3.c(201): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq3.c(268): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq3.c(273): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  dlasq2.c
+e:\git\bundler_sfm\lib\clapack\src\dlasq2.c(204): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq2.c(282): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq2.c(283): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq2.c(303): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq2.c(317): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq2.c(371): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+e:\git\bundler_sfm\lib\clapack\src\dlasq2.c(469): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  dlasq1.c
+  dlaset.c
+  dlasdt.c
+  dlasdq.c
+  dlasda.c
+  dlasd8.c
+  正在生成代码...
+  正在编译...
+  dlasd7.c
+  dlasd6.c
+  dlasd5.c
+  dlasd4.c
+  dlasd3.c
+  dlasd2.c
+  dlasd1.c
+  dlasd0.c
+  dlascl.c
+  dlas2.c
+  dlarzt.c
+  dlarzb.c
+  dlarz.c
+  dlaruv.c
+  dlartv.c
+  dlartg.c
+  dlarrv.c
+  dlarrr.c
+  dlarrk.c
+  dlarrj.c
+  正在生成代码...
+  正在编译...
+  dlarrf.c
+  dlarre.c
+  dlarrd.c
+  dlarrc.c
+  dlarrb.c
+  dlarra.c
+  dlarnv.c
+  dlargv.c
+  dlarfx.c
+  dlarft.c
+  dlarfg.c
+  dlarfb.c
+  dlarf.c
+  dlar2v.c
+  dlar1v.c
+  dlaqtr.c
+  dlaqsy.c
+  dlaqsp.c
+  dlaqsb.c
+  dlaqr5.c
+  正在生成代码...
+  正在编译...
+  dlaqr4.c
+  dlaqr3.c
+  dlaqr2.c
+  dlaqr1.c
+  dlaqr0.c
+  dlaqps.c
+  dlaqp2.c
+  dlaqge.c
+  dlaqgb.c
+  dlapy3.c
+  dlapy2.c
+  dlapmt.c
+  dlapll.c
+  dlanv2.c
+  dlantr.c
+  dlantp.c
+  dlantb.c
+  dlansy.c
+  dlanst.c
+  dlansp.c
+  正在生成代码...
+  正在编译...
+  dlansb.c
+  dlanhs.c
+  dlangt.c
+  dlange.c
+  dlangb.c
+  dlaneg.c
+  dlamrg.c
+  dlalsd.c
+  dlalsa.c
+  dlals0.c
+  dlaln2.c
+  dlaisnan.c
+  dlaic1.c
+  dlahrd.c
+  dlahr2.c
+  dlahqr.c
+  dlagv2.c
+  dlagts.c
+  dlagtm.c
+  dlagtf.c
+  正在生成代码...
+  正在编译...
+  dlags2.c
+  dlag2s.c
+e:\git\bundler_sfm\lib\clapack\src\dlag2s.c(96): warning C4244: “=”: 从“doublereal”转换到“real”，可能丢失数据
+  dlag2.c
+  dlaexc.c
+e:\git\bundler_sfm\lib\clapack\src\dlaexc.c(215): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  dlaev2.c
+  dlaein.c
+  dlaeda.c
+  dlaed9.c
+  dlaed8.c
+  dlaed7.c
+  dlaed6.c
+  dlaed5.c
+  dlaed4.c
+  dlaed3.c
+  dlaed2.c
+  dlaed1.c
+  dlaed0.c
+  dlaebz.c
+  dlae2.c
+  dladiv.c
+  正在生成代码...
+  正在编译...
+  dlacpy.c
+  dlacon.c
+  dlacn2.c
+  dlabrd.c
+  dlabad.c
+  disnan.c
+  dhseqr.c
+  dhsein.c
+  dhgeqz.c
+  dgtts2.c
+  dgttrs.c
+  dgttrf.c
+  dgtsvx.c
+  dgtsv.c
+  dgtrfs.c
+  dgtcon.c
+  dggsvp.c
+  dggsvd.c
+  dggrqf.c
+  dggqrf.c
+  正在生成代码...
+  正在编译...
+  dgglse.c
+  dgghrd.c
+  dggglm.c
+  dggevx.c
+  dggev.c
+  dggesx.c
+  dgges.c
+  dggbal.c
+  dggbak.c
+  dgetrs.c
+  dgetri.c
+  dgetrf.c
+  dgetf2.c
+  dgetc2.c
+  dgesvx.c
+  dgesvd.c
+  dgesv.c
+  dgesdd.c
+  dgesc2.c
+  dgerqf.c
+  正在生成代码...
+  正在编译...
+  dgerq2.c
+  dgerfs.c
+  dgeqrf.c
+  dgeqr2.c
+  dgeqpf.c
+  dgeqp3.c
+  dgeqlf.c
+  dgeql2.c
+  dgelsy.c
+  dgelsx.c
+  dgelss.c
+  dgelsd.c
+  dgels.c
+  dgelqf.c
+  dgelq2.c
+  dgehrd.c
+  dgehd2.c
+  dgegv.c
+  dgegs.c
+  dgeevx.c
+  正在生成代码...
+  正在编译...
+  dgeev.c
+  dgeesx.c
+  dgees.c
+  dgeequ.c
+  dgecon.c
+  dgebrd.c
+  dgebd2.c
+  dgebal.c
+  dgebak.c
+  dgbtrs.c
+  dgbtrf.c
+  dgbtf2.c
+  dgbsvx.c
+  dgbsv.c
+  dgbrfs.c
+  dgbequ.c
+  dgbcon.c
+  dgbbrd.c
+  ddisna.c
+  dbdsqr.c
+  正在生成代码...
+  正在编译...
+  dbdsdc.c
+  tstiee.c
+  lsametst.c
+  LAPACK_version.c
+  dsecndtst.c
+  dlamchtst.c
+  dlamch.c
+  lsame.c
+  izamax.c
+  isamax.c
+e:\git\bundler_sfm\lib\clapack\blas\src\isamax.c(51): warning C4244: “=”: 从“doublereal”转换到“real”，可能丢失数据
+e:\git\bundler_sfm\lib\clapack\blas\src\isamax.c(59): warning C4244: “=”: 从“doublereal”转换到“real”，可能丢失数据
+e:\git\bundler_sfm\lib\clapack\blas\src\isamax.c(69): warning C4244: “=”: 从“doublereal”转换到“real”，可能丢失数据
+e:\git\bundler_sfm\lib\clapack\blas\src\isamax.c(76): warning C4244: “=”: 从“doublereal”转换到“real”，可能丢失数据
+  idamax.c
+  icamax.c
+e:\git\bundler_sfm\lib\clapack\blas\src\icamax.c(51): warning C4244: “=”: 从“doublereal”转换到“real”，可能丢失数据
+e:\git\bundler_sfm\lib\clapack\blas\src\icamax.c(59): warning C4244: “=”: 从“doublereal”转换到“real”，可能丢失数据
+e:\git\bundler_sfm\lib\clapack\blas\src\icamax.c(69): warning C4244: “=”: 从“doublereal”转换到“real”，可能丢失数据
+e:\git\bundler_sfm\lib\clapack\blas\src\icamax.c(76): warning C4244: “=”: 从“doublereal”转换到“real”，可能丢失数据
+  dznrm2.c
+  dzasum.c
+  dtrsv.c
+  dtrsm.c
+  dtrmv.c
+  dtrmm.c
+  dtpsv.c
+  dtpmv.c
+  正在生成代码...
+  正在编译...
+  dtbsv.c
+  dtbmv.c
+  dsyrk.c
+  dsyr2k.c
+  dsyr2.c
+  dsyr.c
+  dsymv.c
+  dsymm.c
+  dswap.c
+  dspr2.c
+  dspr.c
+  dspmv.c
+  dsdot.c
+  dscal.c
+  dsbmv.c
+  drotmg.c
+  drotm.c
+  drotg.c
+  drot.c
+  dnrm2.c
+  正在生成代码...
+  正在编译...
+  dger.c
+  dgemv.c
+  dgemm.c
+  dgbmv.c
+  ddot.c
+  dcopy.c
+  dcabs1.c
+  daxpy.c
+  dasum.c
+  正在生成代码...
+  xerbla.c
+  ilaver.c
+  lsame.c
+xerbla.obj : warning LNK4006: _xerbla_ 已在 xerbla1.obj 中定义；已忽略第二个定义
+xerbla.obj : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+ilaver.obj : warning LNK4006: _ilaver_ 已在 ilaver1.obj 中定义；已忽略第二个定义
+ilaver.obj : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tstiee.obj : warning LNK4006: _ieeeck_ 已在 ieeeck.obj 中定义；已忽略第二个定义
+tstiee.obj : warning LNK4006: _ilaenv_ 已在 ilaenv.obj 中定义；已忽略第二个定义
+lsametst.obj : warning LNK4006: _MAIN__ 已在 tstiee.obj 中定义；已忽略第二个定义
+LAPACK_version.obj : warning LNK4006: _MAIN__ 已在 tstiee.obj 中定义；已忽略第二个定义
+dsecndtst.obj : warning LNK4006: _MAIN__ 已在 tstiee.obj 中定义；已忽略第二个定义
+dlamchtst.obj : warning LNK4006: _MAIN__ 已在 tstiee.obj 中定义；已忽略第二个定义
+lsame.obj : warning LNK4006: _lsame_ 已在 lsame1.obj 中定义；已忽略第二个定义
+lsame.obj : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+  clapack.vcxproj -> E:\git\bundler_sfm\vc++\Debug\clapack.lib

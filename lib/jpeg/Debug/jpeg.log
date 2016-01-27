@@ -1,0 +1,96 @@
+﻿jcapimin.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+     正在创建库 E:\git\bundler_sfm\vc++\Debug\jpeg.lib 和对象 E:\git\bundler_sfm\vc++\Debug\jpeg.exp
+jcapimin.obj : warning LNK4217: 本地定义的符号 _jpeg_abort 在函数 _jpeg_abort_compress 中导入
+jdapimin.obj : warning LNK4217: 本地定义的符号 _jpeg_abort 在函数 _jpeg_destroy_decompress 中导入
+jcapimin.obj : warning LNK4217: 本地定义的符号 _jpeg_destroy 在函数 _jpeg_destroy_compress 中导入
+jdapimin.obj : warning LNK4217: 本地定义的符号 _jpeg_destroy 在函数 _jpeg_CreateDecompress 中导入
+jerror.obj : warning LNK4049: 已导入本地定义的符号 _jpeg_destroy
+jcapimin.obj : warning LNK4217: 本地定义的符号 _jinit_marker_writer 在函数 _jpeg_write_tables 中导入
+jcinit.obj : warning LNK4049: 已导入本地定义的符号 _jinit_marker_writer
+jctrans.obj : warning LNK4217: 本地定义的符号 _jinit_marker_writer 在函数 _compress_output 中导入
+jcapimin.obj : warning LNK4217: 本地定义的符号 _jinit_memory_mgr 在函数 _jpeg_CreateCompress 中导入
+jdapimin.obj : warning LNK4217: 本地定义的符号 _jinit_memory_mgr 在函数 _jpeg_CreateDecompress 中导入
+jcapistd.obj : warning LNK4217: 本地定义的符号 _jpeg_suppress_tables 在函数 _jpeg_start_compress 中导入
+jctrans.obj : warning LNK4049: 已导入本地定义的符号 _jpeg_suppress_tables
+jcapistd.obj : warning LNK4217: 本地定义的符号 _jinit_compress_master 在函数 _jpeg_start_compress 中导入
+jccoefct.obj : warning LNK4217: 本地定义的符号 _jround_up 在函数 _jinit_c_coef_controller 中导入
+jdcoefct.obj : warning LNK4049: 已导入本地定义的符号 _jround_up
+jdpostct.obj : warning LNK4217: 本地定义的符号 _jround_up 在函数 _jinit_d_post_controller 中导入
+jdsample.obj : warning LNK4049: 已导入本地定义的符号 _jround_up
+jquant1.obj : warning LNK4049: 已导入本地定义的符号 _jzero_far
+jquant2.obj : warning LNK4049: 已导入本地定义的符号 _jzero_far
+jccoefct.obj : warning LNK4217: 本地定义的符号 _jzero_far 在函数 _compress_data 中导入
+jctrans.obj : warning LNK4049: 已导入本地定义的符号 _jzero_far
+jdcoefct.obj : warning LNK4049: 已导入本地定义的符号 _jzero_far
+jmemmgr.obj : warning LNK4049: 已导入本地定义的符号 _jzero_far
+jcdctmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_fdct_islow 在函数 _jinit_forward_dct 中导入
+jcdctmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_fdct_ifast 在函数 _jinit_forward_dct 中导入
+jcdctmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_fdct_float 在函数 _jinit_forward_dct 中导入
+jchuff.obj : warning LNK4217: 本地定义的符号 _jpeg_alloc_huff_table 在函数 _finish_pass_gather 中导入
+jcparam.obj : warning LNK4049: 已导入本地定义的符号 _jpeg_alloc_huff_table
+jcphuff.obj : warning LNK4049: 已导入本地定义的符号 _jpeg_alloc_huff_table
+jdmarker.obj : warning LNK4049: 已导入本地定义的符号 _jpeg_alloc_huff_table
+jcinit.obj : warning LNK4217: 本地定义的符号 _jinit_c_master_control 在函数 _jinit_compress_master 中导入
+jctrans.obj : warning LNK4049: 已导入本地定义的符号 _jinit_c_master_control
+jcinit.obj : warning LNK4217: 本地定义的符号 _jinit_c_main_controller 在函数 _jinit_compress_master 中导入
+jcinit.obj : warning LNK4217: 本地定义的符号 _jinit_c_prep_controller 在函数 _jinit_compress_master 中导入
+jcinit.obj : warning LNK4217: 本地定义的符号 _jinit_c_coef_controller 在函数 _jinit_compress_master 中导入
+jcinit.obj : warning LNK4217: 本地定义的符号 _jinit_color_converter 在函数 _jinit_compress_master 中导入
+jcinit.obj : warning LNK4217: 本地定义的符号 _jinit_downsampler 在函数 _jinit_compress_master 中导入
+jcinit.obj : warning LNK4217: 本地定义的符号 _jinit_forward_dct 在函数 _jinit_compress_master 中导入
+jcinit.obj : warning LNK4217: 本地定义的符号 _jinit_huff_encoder 在函数 _jinit_compress_master 中导入
+jctrans.obj : warning LNK4049: 已导入本地定义的符号 _jinit_huff_encoder
+jcinit.obj : warning LNK4217: 本地定义的符号 _jinit_phuff_encoder 在函数 _jinit_compress_master 中导入
+jctrans.obj : warning LNK4049: 已导入本地定义的符号 _jinit_phuff_encoder
+jcmaster.obj : warning LNK4217: 本地定义的符号 _jdiv_round_up 在函数 _initial_setup 中导入
+jdinput.obj : warning LNK4217: 本地定义的符号 _jdiv_round_up 在函数 _initial_setup 中导入
+jdmaster.obj : warning LNK4049: 已导入本地定义的符号 _jdiv_round_up
+jcparam.obj : warning LNK4217: 本地定义的符号 _jpeg_alloc_quant_table 在函数 _jpeg_add_quant_table 中导入
+jctrans.obj : warning LNK4049: 已导入本地定义的符号 _jpeg_alloc_quant_table
+jdmarker.obj : warning LNK4049: 已导入本地定义的符号 _jpeg_alloc_quant_table
+jcphuff.obj : warning LNK4217: 本地定义的符号 _jpeg_make_c_derived_tbl 在函数 _start_pass_phuff 中导入
+jcphuff.obj : warning LNK4217: 本地定义的符号 _jpeg_gen_optimal_table 在函数 _finish_pass_gather_phuff 中导入
+jdsample.obj : warning LNK4049: 已导入本地定义的符号 _jcopy_sample_rows
+jcprepct.obj : warning LNK4217: 本地定义的符号 _jcopy_sample_rows 在函数 _expand_bottom_edge 中导入
+jcsample.obj : warning LNK4049: 已导入本地定义的符号 _jcopy_sample_rows
+jdcolor.obj : warning LNK4049: 已导入本地定义的符号 _jcopy_sample_rows
+jdmerge.obj : warning LNK4049: 已导入本地定义的符号 _jcopy_sample_rows
+jctrans.obj : warning LNK4217: 本地定义的符号 _jpeg_set_defaults 在函数 _jpeg_copy_critical_parameters 中导入
+jctrans.obj : warning LNK4217: 本地定义的符号 _jpeg_set_colorspace 在函数 _jpeg_copy_critical_parameters 中导入
+jdapimin.obj : warning LNK4217: 本地定义的符号 _jinit_input_controller 在函数 _jpeg_CreateDecompress 中导入
+jdapimin.obj : warning LNK4217: 本地定义的符号 _jinit_marker_reader 在函数 _jpeg_CreateDecompress 中导入
+jdapistd.obj : warning LNK4217: 本地定义的符号 _jinit_master_decompress 在函数 _jpeg_start_decompress 中导入
+jdatasrc.obj : warning LNK4217: 本地定义的符号 _jpeg_resync_to_restart 在函数 _jpeg_stdio_src 中导入
+jdcoefct.obj : warning LNK4217: 本地定义的符号 _jcopy_block_row 在函数 _decompress_smooth_data 中导入
+jddctmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_idct_islow 在函数 _start_pass 中导入
+jddctmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_idct_ifast 在函数 _start_pass 中导入
+jddctmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_idct_float 在函数 _start_pass 中导入
+jddctmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_idct_4x4 在函数 _start_pass 中导入
+jddctmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_idct_2x2 在函数 _start_pass 中导入
+jddctmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_idct_1x1 在函数 _start_pass 中导入
+jdmaster.obj : warning LNK4217: 本地定义的符号 _jinit_d_main_controller 在函数 _master_selection 中导入
+jdmaster.obj : warning LNK4217: 本地定义的符号 _jinit_d_coef_controller 在函数 _master_selection 中导入
+jdtrans.obj : warning LNK4049: 已导入本地定义的符号 _jinit_d_coef_controller
+jdmaster.obj : warning LNK4217: 本地定义的符号 _jinit_d_post_controller 在函数 _master_selection 中导入
+jdmaster.obj : warning LNK4217: 本地定义的符号 _jinit_huff_decoder 在函数 _master_selection 中导入
+jdtrans.obj : warning LNK4049: 已导入本地定义的符号 _jinit_huff_decoder
+jdmaster.obj : warning LNK4217: 本地定义的符号 _jinit_phuff_decoder 在函数 _master_selection 中导入
+jdtrans.obj : warning LNK4049: 已导入本地定义的符号 _jinit_phuff_decoder
+jdmaster.obj : warning LNK4217: 本地定义的符号 _jinit_inverse_dct 在函数 _master_selection 中导入
+jdmaster.obj : warning LNK4217: 本地定义的符号 _jinit_upsampler 在函数 _master_selection 中导入
+jdmaster.obj : warning LNK4217: 本地定义的符号 _jinit_color_deconverter 在函数 _master_selection 中导入
+jdmaster.obj : warning LNK4217: 本地定义的符号 _jinit_1pass_quantizer 在函数 _master_selection 中导入
+jdmaster.obj : warning LNK4217: 本地定义的符号 _jinit_2pass_quantizer 在函数 _master_selection 中导入
+jdmaster.obj : warning LNK4217: 本地定义的符号 _jinit_merged_upsampler 在函数 _master_selection 中导入
+jdphuff.obj : warning LNK4217: 本地定义的符号 _jpeg_make_d_derived_tbl 在函数 _start_pass_phuff_decoder 中导入
+jdphuff.obj : warning LNK4217: 本地定义的符号 _jpeg_fill_bit_buffer 在函数 _decode_mcu_AC_first 中导入
+jdphuff.obj : warning LNK4217: 本地定义的符号 _jpeg_huff_decode 在函数 _decode_mcu_AC_first 中导入
+jmemmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_get_small 在函数 _alloc_small 中导入
+jmemmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_free_small 在函数 _free_pool 中导入
+jmemmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_get_large 在函数 _alloc_large 中导入
+jmemmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_free_large 在函数 _free_pool 中导入
+jmemmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_mem_available 在函数 _realize_virt_arrays 中导入
+jmemmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_open_backing_store 在函数 _realize_virt_arrays 中导入
+jmemmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_mem_init 在函数 _jinit_memory_mgr 中导入
+jmemmgr.obj : warning LNK4217: 本地定义的符号 _jpeg_mem_term 在函数 _jinit_memory_mgr 中导入
+  jpeg.vcxproj -> E:\git\bundler_sfm\vc++\Debug\jpeg.dll
